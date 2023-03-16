@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styles from "./SubmitOrder.module.css";
 import useForm from "../store/use-form";
 const SubmitOrder = function (props) {

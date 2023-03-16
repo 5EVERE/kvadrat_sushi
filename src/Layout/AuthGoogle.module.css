@@ -1,0 +1,19 @@
+.auth-google {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: #47035d;
+  color: white;
+  padding: 0.5rem 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+}
